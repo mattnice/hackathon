@@ -23,8 +23,8 @@ public class JavaOracleTest {
 		 String dbURL = "jdbc:oracle:thin:@(DESCRIPTION =(ADDRESS_LIST =(ADDRESS =(PROTOCOL=TCP)(HOST=acadoradbprd01.dpu.depaul.edu)(PORT=1521)))"
 			 		+ "(CONNECT_DATA=(SID=ACADPRD0)(GLOBAL_NAME=ACADPRD0.WORLD)(SERVER=DEDICATED)))";
 			//String dbURL = "jdbc:oracle:thin:@acadoradbprd01.dpu.depaul.edu:1521:Avila-Salazar355";
-			String username = "cavilasa";
-			String password = "cdm2005680";
+			String username = "xxxxxxxxxxx";
+			String password = "xxxxxxxxx";
 			
 			
 		   
