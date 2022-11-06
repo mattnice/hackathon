@@ -1,0 +1,16 @@
+DROP TABLE BUYING;
+
+CREATE TABLE BUYING
+(
+
+    NAME            VarCHAR(20),
+    CANDYNAME        VarCHAR(20),
+    QUANTITYOFFER        Number(20),
+    
+    REQUESTCANDY    VarChar(20),
+    QUANTITYREQUEST Number(20),
+      
+    CONSTRAINT PK_BUYING
+        PRIMARY KEY(NAME,CANDYNAME)
+        
+);
